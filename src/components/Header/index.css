@@ -1,0 +1,25 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+  font-family: 'Roboto';
+}
+
+.icons {
+  border-radius: 50px;
+  background-color: #d8f1f5;
+  margin-right: 30px;
+  height: 30px;
+  width: 20px;
+}
+
+.myapps {
+  font-weight: 500;
+  font-size: 20px;
+  margin-left: 20px;
+}
+
+span {
+  color: #60b345;
+}

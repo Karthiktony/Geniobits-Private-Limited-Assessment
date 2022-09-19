@@ -1,0 +1,45 @@
+.cait-container-main {
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 20px;
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: column;
+}
+
+img {
+  height: 30px;
+  width: 100px;
+  margin-bottom: 0px;
+}
+
+.edusys {
+  margin-top: 0px;
+  font-weight: 700;
+}
+
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.resource {
+  margin-bottom: 220px;
+}
+
+.text-cont {
+  display: flex;
+  align-items: center;
+  font-weight: 500;
+}
+
+.icons-home {
+  height: 25px;
+  margin-right: 10px;
+}
+
+.home {
+  color: #ff4500;
+}
