@@ -1,4 +1,3 @@
-# On - Demand Session
+Geniobits Private Limited Assessment
 
-- Identifying the State
-- Updating the styles based on State
+By Karthik Addakula
